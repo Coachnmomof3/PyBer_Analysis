@@ -8,7 +8,7 @@ The purpose of this anaysis was to gather more insight on  rural, suburban, and 
 ## Results: 
 
 I've developed a summary data frame to visualize the final results of our overall purpose of this project which was to analyze per city type and to see which one has the highest fare, driver count, total rides, and average.
-## PyBer Fare Summary![PyBerSummaryDF](https://github.com/Coachnmomof3/PyBer_Analysis/blob/master/analysis/PyBer%20summary.png |width=100)
+![PyBerSummaryDF](https://github.com/Coachnmomof3/PyBer_Analysis/blob/master/analysis/PyBer%20summary.png |width=100)
 ### Analysis
 - Rural:
   - The least amount of Total Rides, Total Drivers, Total Fare.
